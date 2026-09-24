@@ -195,10 +195,10 @@ function Hero() {
       <div className="mx-auto grid max-w-6xl gap-12 px-5 pb-20 pt-14 md:grid-cols-[1.1fr_1fr] md:items-center md:pt-20">
         <div>
           <h1 className="font-display text-[clamp(2.6rem,6vw,4.6rem)] font-extrabold leading-[0.95] tracking-[-0.03em]">
-            Ganti karier ke dunia kreatif, mulai dari nol.
+              Belajar<span className="text-cobalt">Korea </span> Online dengan mudah dan menyenangkan
           </h1>
-          <p className="mt-6 max-w-[34ch] text-lg leading-relaxed text-ink-soft">
-            Belajar online dari praktisi industri, kerjakan proyek nyata, dan lulus dengan portofolio yang siap dilamar.
+            <p className="mt-6 max-w-[34ch] text-lg leading-relaxed text-ink-soft">
+            Belajar Korea secara online dengan mudah dan menyenangkan. Kursus Korea online terbaik untuk pemula hingga mahir.
           </p>
 
           <p id="pilih-profesi" className="mt-10 font-semibold">Mau jadi apa?</p>

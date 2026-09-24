@@ -14,9 +14,9 @@ const jakarta = Plus_Jakarta_Sans({
 });
 
 export const metadata = {
-  title: "Karsa — Sekolah Kreatif Online",
+  title: "Koreanmirassaem — Kursus Korean Online",
   description:
-    "Belajar desain, video, dan pemasaran digital dari praktisi industri. Bangun portofolio nyata dan dapatkan pendampingan karier.",
+    "Koreanmirassaem adalah platform kursus bahasa Korea online yang menyediakan materi pembelajaran interaktif, video tutorial, dan latihan praktis untuk membantu Anda menguasai bahasa Korea dengan mudah dan efektif.",
 };
 
 export default function RootLayout({ children }) {
